@@ -12,5 +12,7 @@ and move to folder daily, weekly and monthly.
 
 ### carifile.sh
 Mencari File berdasarkan nama file atau kata
+
 Find file by name in directory /home/*/public_html/
+
 $ bash carifile.sh <namafile>
