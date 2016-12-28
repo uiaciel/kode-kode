@@ -16,3 +16,8 @@ Mencari Folder berdasarkan nama Folder atau kata
 Find Folder by name in directory /home/*/public_html/*
 
 $ bash carifolder.sh <kata>
+
+### carifile.sh
+Mencari File PHP berdasarkan nama file atau kata
+
+Find File PHP by name in directory
