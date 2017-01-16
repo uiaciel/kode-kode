@@ -21,3 +21,8 @@ $ bash carifolder.sh <kata>
 Mencari File PHP berdasarkan nama file atau kata
 
 Find File PHP by name in directory
+
+### scanfile.sh
+Mencari nama file berdasarkan nama yang sudah di input.
+
+Find File with Find, but no idea for search by list file.
